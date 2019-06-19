@@ -1,0 +1,7 @@
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 12\Async_Await\Async_Await\bin\Debug\Async_Await.exe.config
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 12\Async_Await\Async_Await\bin\Debug\Async_Await.exe
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 12\Async_Await\Async_Await\bin\Debug\Async_Await.pdb
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 12\Async_Await\Async_Await\obj\Debug\Async_Await.csprojResolveAssemblyReference.cache
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 12\Async_Await\Async_Await\obj\Debug\Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 12\Async_Await\Async_Await\obj\Debug\Async_Await.exe
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 12\Async_Await\Async_Await\obj\Debug\Async_Await.pdb
